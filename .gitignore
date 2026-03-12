@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+*.tmp
+.env
+node_modules/
+
+# No logs, no tracking, no metrics
+*.log
+analytics/
+metrics/
+
+# Just thoughts
